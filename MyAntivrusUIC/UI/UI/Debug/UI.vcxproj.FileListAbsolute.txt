@@ -1,0 +1,3 @@
+D:\University\3 course\2nd sem\Защита информации\MyAntivrusUIC\UI\UI\Debug\UI.vcxprojAssemblyReference.cache
+D:\University\3 course\2nd sem\Защита информации\MyAntivrusUIC\UI\UI\Debug\UI.MyForm.resources
+D:\University\3 course\2nd sem\Защита информации\MyAntivrusUIC\UI\UI\Debug\UI.vcxproj.GenerateResource.cache
